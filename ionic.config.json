@@ -1,0 +1,7 @@
+{
+  "name": "messagingApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
